@@ -1,6 +1,5 @@
 PDP Deliveries Booking System
 
-Overview
 The PDP Deliveries Booking System is a C# application developed to streamline parcel delivery bookings for a new courier company, PDP. This project showcases my ability to design and implement robust software solutions using object-oriented programming, data validation, and file handling techniques. Initially developed as coursework, this project now serves as an example of my practical skills in creating functional, user-friendly applications.
 
 The system enables customers to:

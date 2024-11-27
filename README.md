@@ -40,6 +40,7 @@ Applies discounts for business customers (5% off orders over £50 and 10% off or
 
 Data Persistence:
 Saves all bookings for the day to a CSV file, ensuring records are available for future reference.
+
 Programming Principles Demonstrated
 
 Object-Oriented Programming (OOP):
